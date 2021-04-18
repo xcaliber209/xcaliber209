@@ -3,7 +3,7 @@
 <!--
 **xcaliber209/xcaliber209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get Brackets started:
 
 - 🔭 I’m currently working on trying to figure this out
 - 🌱 I’m currently learning trying to learn the basics 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He, His, 
 - ⚡ Fun fact: I am a newbie but Im guessing you know that by now.
 -->
+
+
+x = 4 
+y = 7
+sum = (4 + 7)
+print(sum)
